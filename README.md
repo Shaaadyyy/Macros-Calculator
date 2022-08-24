@@ -2,7 +2,13 @@
 
 calculating protein, carbs & fats
 
-![alt text](https://github.com/[Shaaadyyy]/[Macros-Calculator]/blob/[Master]/Screenshot1.png?raw=true)
+
+![Screenshot2](https://user-images.githubusercontent.com/60850760/186510703-28491481-7aeb-4ab1-8e4d-6f9c7c77e8e1.png)
+
+
+![Screenshot1](https://user-images.githubusercontent.com/60850760/186510731-f2d667d8-deb1-43c7-a904-cd4100c5d4d6.png)
+
+
 
 ## Getting Started
 
