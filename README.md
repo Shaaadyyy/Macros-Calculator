@@ -1,6 +1,8 @@
-# macros_calc
+# Macros Calculator
 
-A new Flutter project.
+calculating protein, carbs & fats
+
+![alt text](https://github.com/[Shaaadyyy]/[Macros-Calculator]/blob/[Master]/Screenshot1.png?raw=true)
 
 ## Getting Started
 
