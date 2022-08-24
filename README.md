@@ -2,7 +2,7 @@
 
 calculating protein, carbs & fats
 
-A new Flutter project.
+
 
 ## Getting Started
 
