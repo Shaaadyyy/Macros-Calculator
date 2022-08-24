@@ -2,7 +2,7 @@
 
 calculating protein, carbs & fats
 
-
+![Alt text](relative/path/to/Screenshot1.png?raw=true "Title")
 
 ## Getting Started
 
